@@ -1,0 +1,26 @@
+0    [thread applet-JSignApplet.class-1] INFO  com.tcs.jie.signer.s  - Logging Enabled : true
+6    [thread applet-JSignApplet.class-1] INFO  JSignApplet  - JSign object initialized successfully.
+90   [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.c  - Error getting certificates : Unable to fetch the certificates from the store.
+90   [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+91   [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+100  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Signer certificate not set.
+121  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.c  - Error getting certificates : Unable to fetch the certificates from the store.
+121  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+122  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+132  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Signer certificate not set.
+138  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.c  - Error getting certificates : Unable to fetch the certificates from the store.
+138  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+138  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+149  [Applet 1 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Signer certificate not set.
+18552 [thread applet-JSignApplet.class-2] INFO  com.tcs.jie.signer.s  - Logging Enabled : true
+18559 [thread applet-JSignApplet.class-2] INFO  JSignApplet  - JSign object initialized successfully.
+32590 [Applet 2 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.c  - Error getting certificates : Unable to fetch the certificates from the store.
+32590 [Applet 2 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+32591 [Applet 2 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+32599 [Applet 2 LiveConnect Worker Thread] ERROR com.tcs.jie.signer.s  - Signer certificate not set.
+0    [thread applet-JSignApplet.class-1] 20 Aug 2013 14:05:47 [com.tcs.jie.signer.s] [INFO] - Logging Enabled : true
+2    [thread applet-JSignApplet.class-1] 20 Aug 2013 14:05:47 [JSignApplet] [INFO] - JSign object initialized successfully.
+3523 [Applet 1 LiveConnect Worker Thread] 20 Aug 2013 14:05:51 [com.tcs.jie.signer.c] [ERROR] - Error getting certificates : Unable to fetch the certificates from the store.
+3524 [Applet 1 LiveConnect Worker Thread] 20 Aug 2013 14:05:51 [com.tcs.jie.signer.s] [ERROR] - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+3524 [Applet 1 LiveConnect Worker Thread] 20 Aug 2013 14:05:51 [com.tcs.jie.signer.s] [ERROR] - Could not load the keystore. Incorrect Password may be one of the possible reasons.Check log for details.
+3538 [Applet 1 LiveConnect Worker Thread] 20 Aug 2013 14:05:51 [com.tcs.jie.signer.s] [ERROR] - Signer certificate not set.
